@@ -119,8 +119,8 @@ select {
 
 .department-container {
   display: flex;
-  width: 92%;
-  /* margin-left: 2%; */
+  width: 96%;
+  margin-left: 2%;
   position: relative;
   /* top: 10000x; */
   margin-top: 100px;
@@ -137,12 +137,14 @@ select {
 .department-container-img {
   flex: 1;
   text-align: right; 
-  /* margin-bottom: 20px; */
+  /* margin-left: 200px; */
 }
 
 .department-container-img img {
   width: 4.5%;
-  margin-bottom: 100px;
+  /* margin-bottom: 100px; */
+  margin-top: 130px;
+  
   height: 10px;
 }
 
