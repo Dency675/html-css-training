@@ -490,8 +490,9 @@ img1{
 .upper-portion-middle{
   flex: 1;
   /* width: 90%; */
-  margin-left: 18%;
+  margin-left: 8%;
   text-align: left;
+
 
 }
 
@@ -516,7 +517,7 @@ table{
 }
 
 .lower-portion{
-  height: 100px;
+  height: 70px;
   font-size: 14px;
 }
 
@@ -557,3 +558,11 @@ table{
 .lower-portion-right h4{
   margin-bottom: 5px;
 }
+
+.lower-portion-link{
+  text-align: center;
+  font-size: 12px;
+  color: #000000;
+  height: 50px;
+}
+
