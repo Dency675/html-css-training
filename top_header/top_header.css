@@ -372,8 +372,8 @@ img1 {
 
 .newLetter-container {
   position: absolute;
-  top: 3700px;
-  padding-top: 300px;
+  top: 3550px;
+  padding-top: 350px;
   padding-bottom: 130px;
   padding-left: 15px;
   padding-right: 5px;
@@ -386,7 +386,6 @@ img1 {
   width: 86%;
   margin-left: 7%;
   height: 200px;
-  /* display: flex; */
   background-color: #ffffff;
 }
 
@@ -403,7 +402,7 @@ img1 {
   margin-left: 6%;
   position: absolute;
   top: 350px;
-  /* margin-top: 10px; */
+  margin-top: 40px;
   /* background-color: red; */
   /* padding-left: 1000px; */
 }
@@ -449,7 +448,7 @@ img1 {
 .footer {
   background-color: #f9fafa;
   /* height: 300px; */
-  margin-top: 450px;
+  margin-top: 360px;
   display: flex;
   font-family: "Inter";
   font-weight: normal;
