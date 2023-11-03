@@ -448,8 +448,8 @@ img1 {
 
 .footer {
   background-color: #f9fafa;
-  height: 300px;
-  margin-top: 330px;
+  /* height: 300px; */
+  margin-top: 450px;
   display: flex;
   font-family: "Inter";
   font-weight: normal;
